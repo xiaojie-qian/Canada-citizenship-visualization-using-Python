@@ -1,19 +1,24 @@
 # Canada-citizenship-visualization-using-Python
+
 <br>
+
 ## Description: 
 Report from UN Department of Economic and Social Affairs: International Migration Flows to and from Selected Countries: The 2015 Revision. (United Nations database, POP/DB/MIG/Flow/Rev.2015).
+
 <br>
 <br>
+
 ## Viz
-- Line chart
-- Pie chart
-- Box plot
-- Scatter plot
-- Bubble plot
-- Waffle chart
-- Regression plot
+- **Line chart**
+- **Pie chart**
+- **Box plot**
+- **Scatter plot**
+- **Bubble plot**
+- **Waffle chart**
+- **Regression plot**
 
-
+<br>
+<br>
 
 ### Use Python to create visualization (examples as below: )
 
